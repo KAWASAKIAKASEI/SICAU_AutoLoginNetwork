@@ -1,5 +1,5 @@
 # SICAU_AutoLoginNetwork
-四川农业大学网络认证程序
+四川农业大学网络认证程序\n
 使用方法:
   先用account_passwd.exe创建账户密码信息
   之后再使用login.exe
